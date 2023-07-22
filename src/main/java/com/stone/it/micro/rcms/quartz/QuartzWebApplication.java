@@ -18,9 +18,9 @@ public class QuartzWebApplication {
 
   private static final Logger LOGGER = LoggerFactory.getLogger(QuartzWebApplication.class);
   public static void main(String[] args) {
-    LOGGER.info("Demo Application Start now ........");
+    LOGGER.info("QuartzWeb Application Start now ........");
     SpringApplication.run(QuartzWebApplication.class, args);
-    LOGGER.info("Demo Application Running ........");
+    LOGGER.info("QuartzWeb Application Running ........");
   }
 
 }

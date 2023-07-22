@@ -1,13 +1,13 @@
 server:
   port: 60000
   servlet:
-    context-path: /quartz
+    context-path: /quartzApi
 
 spring:
   profiles:
     active: loc
   application:
-    name: iQuzrtzService
+    name: iQuartzService
   # 数据库信息配置
   datasource:
     name: rcms_tmdb
