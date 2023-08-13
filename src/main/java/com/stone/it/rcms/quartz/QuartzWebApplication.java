@@ -1,4 +1,4 @@
-package com.stone.it.micro.rcms.quartz;
+package com.stone.it.rcms.quartz;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
